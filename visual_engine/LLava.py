@@ -12,7 +12,9 @@ class LLavaEngine(BaseVisualEngine):
         self.model = LlavaForConditionalGeneration.from_pretrained(self.model_id, torch_dtype=torch.float16,
                                                                    low_cpu_mem_usage=True)
         self.model = self.model.to(self.device)
-        self.processor = AutoProcessor.from_pretrained(self.model_id)
+        # self.processor = AutoProcessor.from_pretrained(self.model_id)
+        self.processor = AutoProcessor.from_pretrained(self.model_id, use_fast=False)
+
         self.temperature = temperature
         self.max_tokens = max_tokens
 

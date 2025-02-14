@@ -14,6 +14,14 @@ def get_total_score_with_len(json_filename):
     else:
         return -1, -1
 
+def get_scores(json_filename):
+    scores = []
+    if os.path.exists(json_filename):
+        with open(json_filename, 'r') as json_file:
+            lines = json_file.readlines()
+            for line in lines:
+                scores.append(json.loads(line)['score'])
+    return scores
 
 class EvalShower:
     def __init__(self, args):
@@ -22,22 +30,43 @@ class EvalShower:
         self.v_model = args.v_model
         self.l_model = args.l_model
 
+    # def run(self):
+    #     for m in self.method:
+    #         print("-" * 40)
+    #         print(f"Method: {m}")
+    #         sum = 0
+    #         for d in self.dataset_name:
+    #             output_file_path = f'../outputs/eval/{self.l_model}/{self.v_model}/{m}/{m}_{d}_eval.jsonl'
+    #             total_score, total_len = get_total_score_with_len(output_file_path)
+    #             if total_score == -1:
+    #                 print(f"Dataset: {d}, No Data")
+    #                 continue
+    #             avg = total_score / total_len
+    #             scale_score = round((avg - 1) * 33.33333333333333, 2)
+    #             sum += scale_score
+    #             print(f"Dataset: {d}, Avg. Score: {scale_score}%, Total Len: {total_len}")
+    #         print(f"Total Avg.: {round(sum / len(self.dataset_name), 2)}%")
+    #     print("-" * 40)
+
     def run(self):
         for m in self.method:
             print("-" * 40)
             print(f"Method: {m}")
-            sum = 0
             for d in self.dataset_name:
-                output_file_path = f'../outputs/eval/{self.l_model}/{self.v_model}/{m}/{m}_{d}_eval.jsonl'
-                total_score, total_len = get_total_score_with_len(output_file_path)
-                if total_score == -1:
+                output_file_path = f'/home/MC-CoT/outputs/{self.l_model}/{self.v_model}/{m}/{m}_{d}.jsonl'
+                scores = get_scores(output_file_path)
+
+                if not scores:
                     print(f"Dataset: {d}, No Data")
                     continue
-                avg = total_score / total_len
-                scale_score = round((avg - 1) * 33.33333333333333, 2)
-                sum += scale_score
-                print(f"Dataset: {d}, Avg. Score: {scale_score}%, Total Len: {total_len}")
-            print(f"Total Avg.: {round(sum / len(self.dataset_name), 2)}%")
+                
+                print(f"Dataset: {d}, Total Len: {len(scores)}")
+                for idx, score in enumerate(scores):
+                    print(f"  Sample {idx + 1}: Score = {score}")
+                
+                avg_score = sum(scores) / len(scores)
+                scale_score = round((avg_score - 1) * 33.33333333333333, 2)
+                print(f"Dataset: {d}, Avg. Score: {scale_score}%")
         print("-" * 40)
 
 
