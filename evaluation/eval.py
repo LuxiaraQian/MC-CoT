@@ -191,11 +191,47 @@ class Evaluator:
                                     item = data[idx]
                                     self._eval_one(item, d)
                         else:
+                            # total_recall = 0
+                            # for item in data:
+                            #     recall = calculate(item['answer'], parse_pred(item['pred']), self.tokenizer)
+                            #     total_recall += recall
+                            # print(f"Recall: {round((total_recall / len(data)) * 100, 2)}%")
                             total_recall = 0
+                            recall_results = []  # 存储每条数据的 recall 结果
+
                             for item in data:
-                                recall = calculate(item['answer'], parse_pred(item['pred']), self.tokenizer)
+                                pred = parse_pred(item['pred'])  # 解析预测答案
+                                recall = calculate(item['answer'], pred, self.tokenizer)  # 计算 recall
                                 total_recall += recall
-                            print(f"Recall: {round((total_recall / len(data)) * 100, 2)}%")
+
+                                # 存储每条数据的 recall 结果
+                                recall_results.append({
+                                    "id": item["id"],
+                                    "question": item["question"],
+                                    "answer": item["answer"],
+                                    "pred": pred,
+                                    "recall": recall
+                                })
+
+                                # 实时打印每条数据的 recall
+                                print(f"ID: {item['id']}, Recall: {round(recall * 100, 2)}%")
+
+                            # 计算并打印平均 recall
+                            avg_recall = total_recall / len(data)
+                            print(f"Average Recall: {round(avg_recall * 100, 2)}%")
+                            print("-" * 50)
+
+                            # 将详细 Recall 结果保存到 JSONL 文件
+                            recall_output_file = f'../outputs/eval/{self.l_model[0]}/{self.v_model[0]}/{self.method[0]}_recall.jsonl'
+                            ensure_dir(recall_output_file)
+
+                            with open(recall_output_file, "w") as f:
+                                for entry in recall_results:
+                                    f.write(json.dumps(entry) + "\n")
+
+                            print(f"Recall 结果已保存到 {recall_output_file}")
+
+
                             sum_recall += total_recall / len(data)
                     print(f"Average Recall: {round((sum_recall / len(self.dataset_name)) * 100, 2)}%")
                     print("-" * 50)

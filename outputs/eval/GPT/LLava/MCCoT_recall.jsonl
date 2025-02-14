@@ -1,0 +1,226 @@
+{"id": 0, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to take this image is a chest x-ray.", "recall": 0.6666666666666666}
+{"id": 1, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 2, "question": "What is the main organ in the image?", "answer": "Lung, Spinal Cord", "pred": "The main organ in the image is the lungs.", "recall": 0.3333333333333333}
+{"id": 3, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the lungs.", "recall": 0.6666666666666666}
+{"id": 4, "question": "What diseases are included in the picture?", "answer": "Lung Cancer", "pred": "The disease included in the picture is a mass in the right lung, which requires further evaluation to determine its nature and potential underlying conditions.", "recall": 0.75}
+{"id": 5, "question": "Where is/are the abnormality located?", "answer": "Left Lung, Right", "pred": "The abnormality is located in the upper lobe of the right lung.", "recall": 0.6666666666666666}
+{"id": 6, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to take this image is a CT scan.", "recall": 1.0}
+{"id": 7, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 8, "question": "What is the main organ in the image?", "answer": "Lung", "pred": "The main organ in the image is the lungs.", "recall": 0.6666666666666666}
+{"id": 9, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the lungs.", "recall": 0.6666666666666666}
+{"id": 10, "question": "What diseases are included in the picture?", "answer": "Lung Cancer", "pred": "The diseases that could be included in the picture based on the information provided are pneumonia, lung cancer, pulmonary edema, congestive heart failure, pericarditis, myocardial infarction, rib fractures, deformities, and diaphragmatic paralysis or hernia.", "recall": 1.0}
+{"id": 11, "question": "Where is/are the abnormality located?", "answer": "Left Lung, Right", "pred": "The abnormality is located in the right lower lobe of the lung and in the mediastinum, near the heart and lungs.", "recall": 0.8333333333333334}
+{"id": 12, "question": "What modality is used to take this image?", "answer": "CT", "pred": "X-ray", "recall": 0.6666666666666666}
+{"id": 13, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 14, "question": "What is the main organ in the image?", "answer": "Lung", "pred": "The main organ in the image is the lungs.", "recall": 0.6666666666666666}
+{"id": 15, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the lungs.", "recall": 0.6666666666666666}
+{"id": 16, "question": "What diseases are included in the picture?", "answer": "Lung Cancer", "pred": "The disease included in the picture is likely lung cancer.", "recall": 1.0}
+{"id": 17, "question": "Where is/are the abnormality located?", "answer": "Right Lung, Left", "pred": "The abnormality is located in the right middle lobe of the lung.", "recall": 0.6666666666666666}
+{"id": 18, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take this image is a CT scan.", "recall": 0.4}
+{"id": 19, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 20, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the heart.", "recall": 0.6666666666666666}
+{"id": 21, "question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "pred": "No diseases are included in the picture.", "recall": 0.3333333333333333}
+{"id": 22, "question": "Where is/are the abnormality located?", "answer": "Center", "pred": "The abnormality is located in the left lower lobe of the lung in the lower chest area, near the aorta and vena cava.", "recall": 0.6666666666666666}
+{"id": 23, "question": "What modality is used to take this image?", "answer": "MRI", "pred": "The modality used to take this image is ultrasound.", "recall": 0.6666666666666666}
+{"id": 24, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the abdominal area, specifically showing a cyst in the right lobe of the liver.", "recall": 0.6666666666666666}
+{"id": 25, "question": "What is the mr weighting in this image?", "answer": "T2", "pred": "The MR weighting in this image is T2-weighted.", "recall": 1.0}
+{"id": 26, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take this image is a CT scan.", "recall": 0.4}
+{"id": 27, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 28, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the lungs.", "recall": 0.6666666666666666}
+{"id": 29, "question": "What diseases are included in the picture?", "answer": "Pneumonia", "pred": "Based on the information provided and the normal appearance of the lungs and ribcage in the image, no specific diseases are included in the picture.", "recall": 0.6666666666666666}
+{"id": 30, "question": "Where is/are the abnormality located?", "answer": "Left Lung, Lower Right", "pred": "The abnormality is located in the right lung, specifically in the right lower lobe.", "recall": 0.8571428571428571}
+{"id": 31, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take the image is X-ray.", "recall": 1.0}
+{"id": 32, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body, specifically the thoracic region.", "recall": 1.0}
+{"id": 33, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the lungs.", "recall": 0.6666666666666666}
+{"id": 34, "question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "pred": "The diseases included in the picture may be lung cancer, lung abscess, consolidation, atelectasis, hypertrophic cardiomyopathy, enlarged heart, pericardial effusion, inflammation, and infection.", "recall": 0.6666666666666666}
+{"id": 35, "question": "Where is/are the abnormality located?", "answer": "Center", "pred": "The abnormality is located in the right lower lobe of the lung.", "recall": 0.6666666666666666}
+{"id": 36, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take this image is a CT scan.", "recall": 0.4}
+{"id": 37, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 38, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the lungs.", "recall": 0.6666666666666666}
+{"id": 39, "question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "pred": "Based on the description provided, the diseases included in the picture could potentially be lung cancer and chronic obstructive pulmonary disease (COPD). The dark spots in the lungs may represent abnormal cell growth indicative of lung cancer, as well as structural changes and damage associated with COPD, such as emphysema. The positioning of the diseased areas in the upper lobes close to the chest wall suggests significant lung pathology that requires medical attention and intervention.", "recall": 0.3333333333333333}
+{"id": 40, "question": "Where is/are the abnormality located?", "answer": "Center", "pred": "The abnormality is located in the right lower lobe of the lung.", "recall": 0.6666666666666666}
+{"id": 41, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take this image is a CT scan.", "recall": 0.4}
+{"id": 42, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 43, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the heart.", "recall": 0.6666666666666666}
+{"id": 44, "question": "What diseases are included in the picture?", "answer": "Atelectasis, Mass", "pred": "The possible diseases included in the picture are heart failure, cardiomyopathy, pericardial effusion, aortic stenosis, coronary artery disease, pneumonia, lung cancer, pulmonary edema, consolidation, atelectasis, and pleural effusion.", "recall": 0.875}
+{"id": 45, "question": "Where is/are the abnormality located?", "answer": "Right Lung", "pred": "The abnormality is located in the upper lobe of the right lung.", "recall": 1.0}
+{"id": 46, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take this image is a CT scan.", "recall": 0.4}
+{"id": 47, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 48, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the heart.", "recall": 0.6666666666666666}
+{"id": 49, "question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "pred": "The diseases included in the picture are cardiomegaly, heart failure, cardiomyopathy, valvular heart disease, atherosclerosis, scoliosis, kyphosis, trauma, and osteoporosis.", "recall": 1.0}
+{"id": 50, "question": "Where is/are the abnormality located?", "answer": "Center", "pred": "The abnormality is located in the upper right quadrant of the chest, near the right lung and surrounded by the ribcage.", "recall": 0.6666666666666666}
+{"id": 51, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The image was likely taken using a combination of X-ray and CT scan imaging techniques.", "recall": 1.0}
+{"id": 52, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body, specifically focusing on the ribcage and surrounding structures.", "recall": 1.0}
+{"id": 53, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the heart.", "recall": 0.6666666666666666}
+{"id": 54, "question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "pred": "The diseases included in the picture may be lung cancer, tuberculosis, pneumonia, lung abscess, or other lung conditions that manifest as pulmonary nodules or consolidations.", "recall": 0.3333333333333333}
+{"id": 55, "question": "Where is/are the abnormality located?", "answer": "Center", "pred": "The abnormality is located in the right lower quadrant of the chest, near the base of the lung.", "recall": 0.6666666666666666}
+{"id": 56, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take this image is a CT scan.", "recall": 0.4}
+{"id": 57, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area (thoracic region) of the body.", "recall": 1.0}
+{"id": 58, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the lungs.", "recall": 0.6666666666666666}
+{"id": 59, "question": "What diseases are included in the picture?", "answer": "Nodule", "pred": "The diseases that could be included in the picture based on the presence of multiple lesions on the lungs are lung cancer, chronic obstructive pulmonary disease (COPD), tuberculosis, and sarcoidosis. These conditions can manifest as abnormalities in the lung tissue, such as the spots seen in the image. However, a definitive diagnosis would require further medical evaluation and diagnostic testing to confirm the specific disease causing the lesions.", "recall": 0.5}
+{"id": 60, "question": "Where is/are the abnormality located?", "answer": "Left Lung, Right", "pred": "The abnormality is located in the right lung.", "recall": 0.6666666666666666}
+{"id": 61, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take this image is likely a chest X-ray.", "recall": 1.0}
+{"id": 62, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 63, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the heart.", "recall": 0.6666666666666666}
+{"id": 64, "question": "What diseases are included in the picture?", "answer": "Nodule", "pred": "The diseases included in the picture may potentially be pulmonary nodules, lung masses, infiltrates, lung cancer, or chronic obstructive pulmonary disease (COPD).", "recall": 0.75}
+{"id": 65, "question": "Where is/are the abnormality located?", "answer": "Right Lung, Left", "pred": "The abnormalities are located in the right lower lobe of the lung and in the upper chest area near the heart and lungs.", "recall": 0.6666666666666666}
+{"id": 66, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take this image is a CT scan.", "recall": 0.4}
+{"id": 67, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the thoracic region of the body.", "recall": 0.6666666666666666}
+{"id": 68, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the lungs.", "recall": 0.6666666666666666}
+{"id": 69, "question": "What diseases are included in the picture?", "answer": "Atelectasis", "pred": "The diseases included in the picture could be conditions affecting the lungs and heart, such as pneumonia, congestive heart failure, pulmonary edema, or cardiomegaly. These conditions can manifest with changes in the density or opacity of the lung fields, enlargement of the heart, or signs of fluid accumulation in the lungs or around the heart.", "recall": 0.3333333333333333}
+{"id": 70, "question": "Where is/are the abnormality located?", "answer": "Right Lung, Lower Left", "pred": "The abnormality is located in the right middle lobe of the lung.", "recall": 0.5714285714285714}
+{"id": 71, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "The modality used to take this image is a CT scan.", "recall": 0.4}
+{"id": 72, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area, specifically focusing on the lungs.", "recall": 1.0}
+{"id": 73, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the lungs.", "recall": 0.6666666666666666}
+{"id": 74, "question": "What diseases are included in the picture?", "answer": "Pneumonia", "pred": "The diseases included in the picture could be pneumonia, lung cancer, heart failure, cardiomegaly, valve disease, and pericardial effusion.", "recall": 1.0}
+{"id": 75, "question": "Where is/are the abnormality located?", "answer": "Left Lung, Right", "pred": "The abnormality is located in the right lung, specifically in the middle lobe near the bronchi.", "recall": 0.8333333333333334}
+{"id": 76, "question": "What modality is used to take this image?", "answer": "MRI", "pred": "CT scan", "recall": 0.6666666666666666}
+{"id": 77, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the abdominal area of the body.", "recall": 0.6666666666666666}
+{"id": 78, "question": "What is the mr weighting in this image?", "answer": "T2", "pred": "The MR weighting in this image is T2-weighted.", "recall": 1.0}
+{"id": 79, "question": "How many kidneys are there in this image?", "answer": "1", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 80, "question": "What is the largest organ in the picture?", "answer": "Liver", "pred": "The largest organ in the picture is the liver.", "recall": 1.0}
+{"id": 81, "question": "What modality is used to take this image?", "answer": "X-Ray", "pred": "X-ray", "recall": 1.0}
+{"id": 82, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 83, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the heart.", "recall": 0.6666666666666666}
+{"id": 84, "question": "What diseases are included in the picture?", "answer": "Pneumothorax", "pred": "The diseases included in the picture may involve cardiac conditions such as arrhythmias, heart failure, or coronary artery disease.", "recall": 0.25}
+{"id": 85, "question": "Where is/are the abnormality located?", "answer": "Right Lung, Left", "pred": "The abnormality is located in the right lower lobe of the lung.", "recall": 0.6666666666666666}
+{"id": 86, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to take this image is a CT scan.", "recall": 1.0}
+{"id": 87, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the liver in the abdominal area.", "recall": 0.6666666666666666}
+{"id": 88, "question": "What is the largest organ in the picture?", "answer": "Liver", "pred": "The largest organ in the picture is the liver.", "recall": 1.0}
+{"id": 89, "question": "Where is the liver?", "answer": "Left", "pred": "The liver is located in the lower right quadrant of the abdomen.", "recall": 0.6666666666666666}
+{"id": 90, "question": "How many kidneys in this image?", "answer": "2", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 91, "question": "What is the organ located in the lower right corner of the body in this image?", "answer": "Left Kidney", "pred": "The organ located in the lower right corner of the body in this image is the kidney.", "recall": 0.75}
+{"id": 92, "question": "What is the organ on the left side of this image?", "answer": "Liver", "pred": "The organ on the left side of the image is the liver.", "recall": 1.0}
+{"id": 93, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of this image is transverse (axial).", "recall": 1.0}
+{"id": 94, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to capture the image is likely a CT scan.", "recall": 1.0}
+{"id": 95, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the chest area.", "recall": 0.6666666666666666}
+{"id": 96, "question": "How many organs are there in this image?", "answer": "4", "pred": "There are two organs in this image: the liver and the spleen.", "recall": 0.6666666666666666}
+{"id": 97, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the heart.", "recall": 0.6666666666666666}
+{"id": 98, "question": "Where is the liver?", "answer": "Top", "pred": "The liver is located in the upper right quadrant of the abdomen.", "recall": 0.6666666666666666}
+{"id": 99, "question": "What is the rightmost organ in this image?", "answer": "Left Lung", "pred": "The rightmost organ in this image is the liver.", "recall": 0.5}
+{"id": 100, "question": "What is the organ on the left side of this image?", "answer": "Right Lung", "pred": "The organ on the left side of the image is the heart.", "recall": 0.5}
+{"id": 101, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of this image is an axial view.", "recall": 0.75}
+{"id": 102, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to take this image is likely Computed Tomography (CT) imaging.", "recall": 1.0}
+{"id": 103, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the abdominal area of the body, specifically focusing on the liver.", "recall": 0.6666666666666666}
+{"id": 104, "question": "What is the largest organ in the picture?", "answer": "Liver", "pred": "The largest organ in the picture is the liver.", "recall": 1.0}
+{"id": 105, "question": "Where is the liver?", "answer": "Left", "pred": "The liver is located in the upper right quadrant of the image.", "recall": 0.6666666666666666}
+{"id": 106, "question": "How many kidneys in this image?", "answer": "0", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 107, "question": "What is the organ on the left side of this image?", "answer": "Liver", "pred": "The organ on the left side of the image is the liver.", "recall": 1.0}
+{"id": 108, "question": "What is the organ on the lower right corner of the body in this image?", "answer": "Spleen", "pred": "The organ on the lower right corner of the body in this image is the liver.", "recall": 0.5}
+{"id": 109, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of this image is the axial plane.", "recall": 0.75}
+{"id": 110, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to take this image is a CT scan.", "recall": 1.0}
+{"id": 111, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the abdominal area of the body.", "recall": 0.6666666666666666}
+{"id": 112, "question": "What is the largest organ in the picture?", "answer": "Liver", "pred": "The largest organ in the picture is the liver.", "recall": 1.0}
+{"id": 113, "question": "What diseases are included in the picture?", "answer": "Liver Cancer", "pred": "The diseases that could be included in the picture of the liver are liver cancer (hepatocellular carcinoma or metastatic liver cancer), liver cysts, liver abscess, liver inflammation (hepatitis), and liver calcifications (possibly due to conditions like hemochromatosis or chronic liver disease).", "recall": 1.0}
+{"id": 114, "question": "Where is the liver?", "answer": "Left and top", "pred": "The liver is located in the upper right quadrant of the abdomen.", "recall": 0.4}
+{"id": 115, "question": "Where is/are the abnormality located?", "answer": "Liver", "pred": "The abnormality is located in segment V of the liver, in the right lobe, near the gallbladder.", "recall": 1.0}
+{"id": 116, "question": "How many kidneys in this image?", "answer": "0", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 117, "question": "What is the organ on the left side of this image?", "answer": "Liver", "pred": "The organ on the left side of the image is the liver.", "recall": 1.0}
+{"id": 118, "question": "What is the rightmost organ in this image?", "answer": "Spleen", "pred": "The rightmost organ in this image is the liver.", "recall": 0.5}
+{"id": 119, "question": "What is the organ on the top of the body in this image?", "answer": "Liver", "pred": "The organ on the top of the body in this image is the liver.", "recall": 1.0}
+{"id": 120, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of this image is axial.", "recall": 0.75}
+{"id": 121, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to take this image is a CT scan.", "recall": 1.0}
+{"id": 122, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the abdominal area, focusing on the liver and its surrounding structures.", "recall": 0.6666666666666666}
+{"id": 123, "question": "What is the largest organ in the picture?", "answer": "Liver", "pred": "The largest organ in the picture is the liver.", "recall": 1.0}
+{"id": 124, "question": "Where is the liver?", "answer": "Left and top", "pred": "The liver is located in the upper right quadrant of the abdomen.", "recall": 0.4}
+{"id": 125, "question": "Where is/are the abnormality located?", "answer": "Liver", "pred": "The abnormality is located in the right lobe of the liver.", "recall": 1.0}
+{"id": 126, "question": "How many kidneys in this image?", "answer": "2", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 127, "question": "What is the organ on the lower right corner of this image?", "answer": "Spleen", "pred": "The organ on the lower right corner of the image is the liver.", "recall": 0.5}
+{"id": 128, "question": "What is the organ on the top of the body in this image?", "answer": "Liver", "pred": "The organ on the top of the body in this image is the liver.", "recall": 1.0}
+{"id": 129, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of the image is a transverse plane.", "recall": 1.0}
+{"id": 130, "question": "What modality is used to take this image?", "answer": "MRI", "pred": "The modality used to take this image is a CT (computed tomography) scan.", "recall": 0.6666666666666666}
+{"id": 131, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the abdominal area of the body.", "recall": 0.6666666666666666}
+{"id": 132, "question": "What is the mr weighting in this image?", "answer": "T1", "pred": "The MR weighting in this image is T1-weighted.", "recall": 1.0}
+{"id": 133, "question": "How many kidneys are there in this image?", "answer": "0", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 134, "question": "What modality is used to take this image?", "answer": "MRI", "pred": "The modality used to take this image is CT scan.", "recall": 0.6666666666666666}
+{"id": 135, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the chest area (thoracic region) of the body.", "recall": 0.6666666666666666}
+{"id": 136, "question": "What is the mr weighting in this image?", "answer": "T1", "pred": "The MR weighting in this image is T2-weighted.", "recall": 0.75}
+{"id": 137, "question": "Where is the liver?", "answer": "Not seen", "pred": "The liver is located in the upper right quadrant of the body.", "recall": 0.5}
+{"id": 138, "question": "How many kidneys in this image?", "answer": "0", "pred": "0 kidneys", "recall": 1.0}
+{"id": 139, "question": "What is the organ on the left side of this image?", "answer": "Lung", "pred": "The organ on the left side of the image is the heart.", "recall": 0.6666666666666666}
+{"id": 140, "question": "What modality is used to take this image?", "answer": "CT", "pred": "CT scan", "recall": 1.0}
+{"id": 141, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the human chest area, with a focus on the lungs and the heart.", "recall": 0.6666666666666666}
+{"id": 142, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "The largest organ in the picture is the heart.", "recall": 0.6666666666666666}
+{"id": 143, "question": "What diseases are included in the picture?", "answer": "Liver Cancer", "pred": "The diseases included in the picture are suggestive of cardiovascular diseases, such as coronary artery disease, atherosclerosis, thrombus, myocardial infarction, and a history of heart attack.", "recall": 0.5}
+{"id": 144, "question": "Where is the liver?", "answer": "Upper Left", "pred": "The liver is located in the upper right quadrant of the abdomen.", "recall": 0.75}
+{"id": 145, "question": "Where is/are the abnormality located?", "answer": "Liver", "pred": "The abnormality is located in the middle lobe of the right lung.", "recall": 0.6666666666666666}
+{"id": 146, "question": "How many kidneys in this image?", "answer": "0", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 147, "question": "What organ is the gray part on the left of the image?", "answer": "Liver", "pred": "The gray part on the left of the image is the liver.", "recall": 1.0}
+{"id": 148, "question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "pred": "The black part on the left of the image is the heart.", "recall": 0.5}
+{"id": 149, "question": "What is the organ on the top of the body in this image?", "answer": "Heart and Liver", "pred": "The organ on the top of the body in this image is the heart.", "recall": 0.6}
+{"id": 150, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of this image is an axial view.", "recall": 0.75}
+{"id": 151, "question": "What are the white points in the black part of the body?", "answer": "Pulmonary bronchus", "pred": "The white points in the black part of the body, specifically within the lungs, could indicate pathological conditions such as pulmonary nodules, calcifications, lung metastases, or granulomas.", "recall": 0.5}
+{"id": 152, "question": "Which is the kidney?", "answer": "Symmetrical to the bone marrow", "pred": "The kidney is the bean-shaped structure located in the lower left quadrant of the image.", "recall": 0.42857142857142855}
+{"id": 153, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to take this image is CT (computed tomography).", "recall": 1.0}
+{"id": 154, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the abdominal area of the body, specifically focusing on the liver.", "recall": 0.6666666666666666}
+{"id": 155, "question": "What is the largest organ in the picture?", "answer": "Liver", "pred": "The largest organ in the picture is the liver.", "recall": 1.0}
+{"id": 156, "question": "What diseases are included in the picture?", "answer": "Liver Cancer", "pred": "The diseases included in the picture are likely cystic liver and kidney diseases, focal nodular hyperplasia in the liver, and potential benign or malignant tumors in both organs. The presence of multiple lesions in the liver and kidneys indicates a need for further evaluation to determine the specific nature of these abnormalities and their underlying pathology.", "recall": 0.75}
+{"id": 157, "question": "Where is/are the abnormality located?", "answer": "Liver", "pred": "The abnormality is located in the right lobe of the liver, specifically in a Couinaud segment corresponding to the area where the cyst is visualized on the CT scan.", "recall": 1.0}
+{"id": 158, "question": "How many kidneys in this image?", "answer": "2", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 159, "question": "What organ is the gray part on the left of the image?", "answer": "Liver", "pred": "The gray part on the left of the image is the liver.", "recall": 1.0}
+{"id": 160, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of this image is most likely in the axial plane.", "recall": 0.75}
+{"id": 161, "question": "What is the shape of the kidney in the picture?", "answer": "Irregular", "pred": "The shape of the kidney in the picture is bean-shaped.", "recall": 0.6666666666666666}
+{"id": 162, "question": "Which is the kidney?", "answer": "Symmetrical to the bone marrow", "pred": "The kidney in the medical image is the left kidney.", "recall": 0.42857142857142855}
+{"id": 163, "question": "What modality is used to take this image?", "answer": "CT", "pred": "CT scan", "recall": 1.0}
+{"id": 164, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the liver in the abdominal area of the body.", "recall": 0.6666666666666666}
+{"id": 165, "question": "What is the largest organ in the picture?", "answer": "Liver", "pred": "The largest organ in the picture is the liver.", "recall": 1.0}
+{"id": 166, "question": "Where is the liver?", "answer": "Left", "pred": "The liver is located in the upper right quadrant of the abdomen.", "recall": 0.6666666666666666}
+{"id": 167, "question": "What organ is the gray part on the left of the image?", "answer": "Liver", "pred": "The gray part on the left of the image is the liver.", "recall": 1.0}
+{"id": 168, "question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "pred": "The black part on the left of the image is the liver.", "recall": 0.5}
+{"id": 169, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of this image is the axial plane.", "recall": 0.75}
+{"id": 170, "question": "What are the white spots in the black part of the lower part of body?", "answer": "Pulmonary bronchus", "pred": "The white spots in the black part of the lower body on the chest X-ray likely represent abnormalities within the lungs, such as infections, tumors, inflammatory processes, airway diseases, or pneumonia.", "recall": 0.3333333333333333}
+{"id": 171, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality most likely used to take this image is either CT (Computed Tomography) or MRI (Magnetic Resonance Imaging).", "recall": 1.0}
+{"id": 172, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the liver in the abdominal area.", "recall": 0.6666666666666666}
+{"id": 173, "question": "What is the largest organ in the picture?", "answer": "Small Bowel", "pred": "The largest organ in the picture is the liver.", "recall": 0.4}
+{"id": 174, "question": "How many kidneys in this image?", "answer": "2", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 175, "question": "What is the rightmost organ in this image?", "answer": "Large Bowel", "pred": "The rightmost organ in this image is the kidney.", "recall": 0.4}
+{"id": 176, "question": "What organ is the gray part on the left of the image?", "answer": "Large Bowel", "pred": "The gray part on the left of the image is the liver.", "recall": 0.4}
+{"id": 177, "question": "What is the organ on the top of the body in this image?", "answer": "Small Bowel", "pred": "The organ on the top of the body in this image is the liver.", "recall": 0.4}
+{"id": 178, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of this image is axial.", "recall": 0.75}
+{"id": 179, "question": "Which is the kidney?", "answer": "Symmetrical to the bone marrow", "pred": "The kidney is located on the left side of the image.", "recall": 0.42857142857142855}
+{"id": 180, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to take this image is CT (computed tomography).", "recall": 1.0}
+{"id": 181, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the abdominal area of the body, focusing on structures such as the liver, spleen, and other surrounding organs.", "recall": 0.6666666666666666}
+{"id": 182, "question": "What is the largest organ in the picture?", "answer": "Liver", "pred": "The largest organ in the picture is the liver.", "recall": 1.0}
+{"id": 183, "question": "What is the rightmost organ in this image?", "answer": "Large Bowel", "pred": "The rightmost organ in this image is the liver.", "recall": 0.4}
+{"id": 184, "question": "What organ is the gray part on the left of the image?", "answer": "Liver", "pred": "The gray part on the left of the image is the liver.", "recall": 1.0}
+{"id": 185, "question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "pred": "The black part on the left of the image is the liver.", "recall": 0.5}
+{"id": 186, "question": "What is the organ on the top of the body in this image?", "answer": "Stomach", "pred": "The organ on the top of the body in this image is the liver.", "recall": 0.6666666666666666}
+{"id": 187, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of this image is transverse (axial).", "recall": 1.0}
+{"id": 188, "question": "What organ is the black hole in the upper right corner?", "answer": "Large Bowel", "pred": "The black hole in the upper right corner of the medical image represents the liver.", "recall": 0.4}
+{"id": 189, "question": "What modality is used to take this image?", "answer": "CT", "pred": "The modality used to take the image is a CT scan.", "recall": 1.0}
+{"id": 190, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "The image belongs to the abdominal area, focusing on the liver.", "recall": 0.6666666666666666}
+{"id": 191, "question": "What is the largest organ in the picture?", "answer": "Liver", "pred": "The largest organ in the picture is the liver.", "recall": 1.0}
+{"id": 192, "question": "How many kidneys in this image?", "answer": "0", "pred": "There are two kidneys in this image.", "recall": 0.6666666666666666}
+{"id": 193, "question": "What is the rightmost organ in this image?", "answer": "Large Bowel", "pred": "The rightmost organ in this image is the liver.", "recall": 0.4}
+{"id": 194, "question": "What organ is the gray part on the left of the image?", "answer": "Liver", "pred": "The gray part on the left of the image is the liver.", "recall": 1.0}
+{"id": 195, "question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "pred": "The black part on the left of the image is the liver.", "recall": 0.5}
+{"id": 196, "question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "pred": "The scanning plane of the image is axial.", "recall": 0.75}
+{"id": 197, "question": "What organ is the black hole in the upper right corner?", "answer": "Large Bowel", "pred": "The black hole in the upper right corner is the liver.", "recall": 0.4}
+{"id": 198, "question": "What type of medical image is this?", "answer": "X-Ray", "pred": "This is an X-ray image of the chest.", "recall": 1.0}
+{"id": 199, "question": "What is the scanning plane of this image?", "answer": "Coronal Plane", "pred": "The scanning plane of this image is an axial view.", "recall": 0.6}
+{"id": 200, "question": "Which part do the organs in this image locate from the aspect of the whole body?", "answer": "Chest", "pred": "The organs in this image are located in the thoracic cavity of the body.", "recall": 0.6666666666666666}
+{"id": 201, "question": "What part of the lung is the pneumothorax located in?", "answer": "Upper Right Lung", "pred": "The pneumothorax is located in the lower lobe of the right lung.", "recall": 0.8}
+{"id": 202, "question": "Which organ system is imaged?", "answer": "Chest", "pred": "The organ system imaged in the provided image is the respiratory system, specifically the lungs.", "recall": 0.6666666666666666}
+{"id": 203, "question": "Which organs appear in pairs?", "answer": "Lung", "pred": "Lungs", "recall": 0.6666666666666666}
+{"id": 204, "question": "What color does the left lung show in the picture?", "answer": "Black", "pred": "The left lung shows as black in the picture.", "recall": 1.0}
+{"id": 205, "question": "How many lungs are shown in this image?", "answer": "2", "pred": "There are two lungs shown in this image.", "recall": 0.6666666666666666}
+{"id": 206, "question": "What is the effect of the main organ in this picture?", "answer": "Breathe", "pred": "The effect of the main organ in this picture, the heart, is that it is functioning properly and without any significant pathology.", "recall": 0.6666666666666666}
+{"id": 207, "question": "What kind of symptoms will the disease on the upper right of lung bring to the patient?", "answer": "Chest pain, dyspnea", "pred": "The disease on the upper right lung is likely to bring symptoms such as shortness of breath, chronic cough, wheezing, and chest tightness to the patient.", "recall": 0.4444444444444444}
+{"id": 208, "question": "Which organs/organ in the picture belong to the respiratory system?", "answer": "Lung", "pred": "The organs in the picture that belong to the respiratory system are the lungs.", "recall": 0.6666666666666666}
+{"id": 209, "question": "What imaging modality was used?", "answer": "X-Ray", "pred": "The imaging modality used in this case is a CT scan.", "recall": 0.4}
+{"id": 210, "question": "Which part of the human body is the organ located in the image?", "answer": "Chest", "pred": "The organ located in the image is the heart.", "recall": 0.6666666666666666}
+{"id": 211, "question": "Where is the abnormality in this image?", "answer": "Lower Right Lung", "pred": "The abnormality in this image is located in the right chest area, near the heart and lungs.", "recall": 0.6}
+{"id": 212, "question": "Where is the atelectasis in this image?", "answer": "Lower Right Lung", "pred": "The atelectasis in this image is located in the lower left part of the lungs, specifically in the left lower lobe.", "recall": 0.6}
+{"id": 213, "question": "What is the organ system visualized?", "answer": "Chest", "pred": "The organ system visualized is the respiratory system, specifically the lungs.", "recall": 0.6666666666666666}
+{"id": 214, "question": "What disease is/are shown on the right of lung?", "answer": "Atelectasis", "pred": "The disease shown on the right lung is likely to be a malignant neoplasm, such as lung cancer.", "recall": 0.3333333333333333}
+{"id": 215, "question": "What color does the left lung show in the picture?", "answer": "Black", "pred": "The left lung shows a white color in the picture, which may indicate abnormalities such as pneumonia, atelectasis, or a tumor.", "recall": 0.6666666666666666}
+{"id": 216, "question": "How many existing lungs in this image?", "answer": "2", "pred": "There are two existing lungs in this image.", "recall": 0.6666666666666666}
+{"id": 217, "question": "What is the function of the main organ in this picture?", "answer": "Breathe", "pred": "The function of the main organ in this picture is to pump blood throughout the body, maintaining proper circulation and delivering oxygen to the body's tissues.", "recall": 0.6666666666666666}
+{"id": 218, "question": "What is the main cause of the disease on the lower right of the lung in the picture?", "answer": "Bronchial obstruction", "pred": "The main cause of the disease on the lower right of the lung in the picture is a tumor.", "recall": 0.3333333333333333}
+{"id": 219, "question": "Which organs/organ in the picture belong to the circulatory system?", "answer": "Heart", "pred": "The heart", "recall": 1.0}
+{"id": 220, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "The image belongs to the chest area of the body.", "recall": 1.0}
+{"id": 221, "question": "Where is the mass in this image?", "answer": "Lower Left Lung", "pred": "The mass in this image is located in the right lung area.", "recall": 0.6}
+{"id": 222, "question": "What disease is/are shown on the left of lung?", "answer": "Pulmonary Mass", "pred": "The disease shown on the left side of the lung is likely to be lung cancer, benign lung tumor, or an infectious process affecting the lower lobe of the left lung.", "recall": 0.5}
+{"id": 223, "question": "What color is the lung in the picture?", "answer": "Black", "pred": "The lung in the picture is black.", "recall": 1.0}
+{"id": 224, "question": "How many existing heart in this image?", "answer": "1", "pred": "1", "recall": 1.0}
+{"id": 225, "question": "How much damage will be caused to the body taking such an image?", "answer": "A Little", "pred": "Minimal damage will be caused to the body by taking such a chest X-ray image.", "recall": 0.75}

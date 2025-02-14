@@ -13,7 +13,7 @@ https://pytorch.org/get-started/locally/
 ```
 Lastly, you can install the required packages by running the following command.
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 # Dataset Preparation
 ## PATH-VQA
@@ -57,7 +57,7 @@ To evaluate the accuracy score, you can run the following command:
 ```bash
 python eval.py \
       --mode acc \
-      --method MMCoT IICoT \
+      --method MCCoT IICoT \
       --dataset_name PATH-VQA VQA-RAD Slake \
       --v_model LLava QwenVL \
       --l_model GPT \
@@ -69,6 +69,6 @@ And to calculate and show the scaled score, please use:
 python eval_show.py \
       --v_model LLava \
       --l_model GPT \
-      --method DDCoT IICoT MMCoT \
+      --method DDCoT IICoT MCCoT \
       --dataset_name PATH-VQA VQA-RAD Slake
 ```
